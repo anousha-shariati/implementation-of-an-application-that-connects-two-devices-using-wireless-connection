@@ -1,2 +1,2 @@
 # implementation-of-an-application-that-connects-two-devices-using-wireless-connection
-multimedia  first project spring 2024 
+multimedia systems first project spring 2024 
